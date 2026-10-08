@@ -1,4 +1,4 @@
-# Paystack webhook events
+# Every Paystack webhook event, in one file
 
 One JSON file with a sample payload for every Paystack webhook event: [`paystack_webhook_events.json`](paystack_webhook_events.json).
 
